@@ -4,7 +4,7 @@
 
 # How to run tests
 
-To open an interactive test runner with electron browser and e2e testingpreselected, use `yarn cypress:open`
+To open an interactive test runner with electron browser and e2e testing preselected, use `yarn cypress:open`
 
 To run all tests in a headless mode, use `yarn cypress:run`
 
