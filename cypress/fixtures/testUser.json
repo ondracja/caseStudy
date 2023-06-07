@@ -1,0 +1,12 @@
+{
+  "firstname": "Pepa",
+  "lastname": "Zdepa",
+  "email": "pepa@zdepa.com",
+  "phone": "123456789",
+  "countryLabel": "Czechia",
+  "deposit": "1000",
+  "platform": "mt4",
+  "accountType": "standard",
+  "leverage": "1:100",
+  "currency": "EUR"
+}

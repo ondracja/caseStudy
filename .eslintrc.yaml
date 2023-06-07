@@ -1,0 +1,14 @@
+env:
+ cypress/globals: true
+plugins:
+  - cypress
+  - chai-friendly
+extends:
+  - standard
+  - plugin:cypress/recommended
+  - plugin:chai-friendly/recommended
+rules:
+   max-len: ["error", 100, {
+        "ignoreComments": true,
+    }
+  ]
